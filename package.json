@@ -24,7 +24,7 @@
     "fibers": "^4.0.3",
     "meteor-promise": "^0.8.2",
     "underscore": "^1.8.3",
-    "wdio-sync": "https://github.com/exabyte-io/wdio-sync#1d1988710e7511e04b0fc6edb0de0c0f597e6409",
+    "wdio-sync": "https://github.com/exabyte-io/wdio-sync#1945dd13913f8df9296b3c8de8857f3ae8580500",
     "webdriverio": "^4.14.4",
     "xolvio-fiber-utils": "https://github.com/Exabyte-io/fiber-utils#d31e82ed812482c39805ca0ce5e6427df80e9cdf"
   }
